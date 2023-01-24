@@ -1,0 +1,17 @@
+D:\Study\Universitate\PBL\FinanceX\FinanceX\bin\Debug\FinanceX.exe.config
+D:\Study\Universitate\PBL\FinanceX\FinanceX\bin\Debug\FinanceX.exe
+D:\Study\Universitate\PBL\FinanceX\FinanceX\bin\Debug\FinanceX.pdb
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.csprojAssemblyReference.cache
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.LoginFinanceX.resources
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.FinanceXMain.resources
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.Properties.Resources.resources
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.Welcome.resources
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.csproj.GenerateResource.cache
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.csproj.CoreCompileInputs.cache
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.exe
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.pdb
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.RegisterFinanceX.resources
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.AddExp.resources
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.Expenses.resources
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.Report.resources
+D:\Study\Universitate\PBL\FinanceX\FinanceX\obj\Debug\FinanceX.Statistics.resources
